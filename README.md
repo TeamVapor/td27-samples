@@ -14,7 +14,7 @@ sound("bd*4, [~ sd]*2, hh*8")
 
 ### punk-rock
 
-One folder per drum, hits ordered **soft → hard**, so the `:n` index is a
+One folder per drum, hits ordered **soft → hard** (peaks mastered to a -9..-1 dBFS ramp), so the `:n` index is a
 velocity dial: `sd:0` is a whisper, `sd:6` is a wallop.
 
 ```js
