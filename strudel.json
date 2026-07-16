@@ -1,5 +1,5 @@
 {
-  "_base": "./",
+  "_base": "https://raw.githubusercontent.com/TeamVapor/td27-samples/main/",
   "bd": [
     "punk-rock/bd/bd_0.wav",
     "punk-rock/bd/bd_1.wav",
