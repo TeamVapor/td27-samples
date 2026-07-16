@@ -1,0 +1,89 @@
+{
+  "_base": "./",
+  "bd": [
+    "punk-rock/bd/bd_0.wav",
+    "punk-rock/bd/bd_1.wav",
+    "punk-rock/bd/bd_2.wav",
+    "punk-rock/bd/bd_3.wav",
+    "punk-rock/bd/bd_4.wav",
+    "punk-rock/bd/bd_5.wav",
+    "punk-rock/bd/bd_6.wav",
+    "punk-rock/bd/bd_7.wav"
+  ],
+  "cr": [
+    "punk-rock/cr/cr_0.wav",
+    "punk-rock/cr/cr_1.wav",
+    "punk-rock/cr/cr_2.wav",
+    "punk-rock/cr/cr_3.wav",
+    "punk-rock/cr/cr_4.wav"
+  ],
+  "hh": [
+    "punk-rock/hh/hh_0.wav",
+    "punk-rock/hh/hh_1.wav",
+    "punk-rock/hh/hh_2.wav",
+    "punk-rock/hh/hh_3.wav",
+    "punk-rock/hh/hh_4.wav",
+    "punk-rock/hh/hh_5.wav",
+    "punk-rock/hh/hh_6.wav"
+  ],
+  "ht": [
+    "punk-rock/ht/ht_0.wav",
+    "punk-rock/ht/ht_1.wav",
+    "punk-rock/ht/ht_2.wav",
+    "punk-rock/ht/ht_3.wav",
+    "punk-rock/ht/ht_4.wav",
+    "punk-rock/ht/ht_5.wav",
+    "punk-rock/ht/ht_6.wav"
+  ],
+  "lt": [
+    "punk-rock/lt/lt_0.wav",
+    "punk-rock/lt/lt_1.wav",
+    "punk-rock/lt/lt_2.wav",
+    "punk-rock/lt/lt_3.wav",
+    "punk-rock/lt/lt_4.wav",
+    "punk-rock/lt/lt_5.wav"
+  ],
+  "mt": [
+    "punk-rock/mt/mt_0.wav",
+    "punk-rock/mt/mt_1.wav",
+    "punk-rock/mt/mt_2.wav",
+    "punk-rock/mt/mt_3.wav",
+    "punk-rock/mt/mt_4.wav",
+    "punk-rock/mt/mt_5.wav",
+    "punk-rock/mt/mt_6.wav"
+  ],
+  "oh": [
+    "punk-rock/oh/oh_0.wav",
+    "punk-rock/oh/oh_1.wav",
+    "punk-rock/oh/oh_2.wav",
+    "punk-rock/oh/oh_3.wav",
+    "punk-rock/oh/oh_4.wav",
+    "punk-rock/oh/oh_5.wav"
+  ],
+  "rd": [
+    "punk-rock/rd/rd_0.wav",
+    "punk-rock/rd/rd_1.wav",
+    "punk-rock/rd/rd_2.wav",
+    "punk-rock/rd/rd_3.wav",
+    "punk-rock/rd/rd_4.wav"
+  ],
+  "sd": [
+    "punk-rock/sd/sd_0.wav",
+    "punk-rock/sd/sd_1.wav",
+    "punk-rock/sd/sd_2.wav",
+    "punk-rock/sd/sd_3.wav",
+    "punk-rock/sd/sd_4.wav",
+    "punk-rock/sd/sd_5.wav",
+    "punk-rock/sd/sd_6.wav"
+  ],
+  "sd_rim": [
+    "punk-rock/sd_rim/sd_rim_0.wav",
+    "punk-rock/sd_rim/sd_rim_1.wav",
+    "punk-rock/sd_rim/sd_rim_2.wav",
+    "punk-rock/sd_rim/sd_rim_3.wav",
+    "punk-rock/sd_rim/sd_rim_4.wav",
+    "punk-rock/sd_rim/sd_rim_5.wav",
+    "punk-rock/sd_rim/sd_rim_6.wav",
+    "punk-rock/sd_rim/sd_rim_7.wav"
+  ]
+}
